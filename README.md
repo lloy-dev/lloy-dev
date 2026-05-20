@@ -1,16 +1,18 @@
-## Hi there 👋
+## lloydev
 
-<!--
-**lloy-dev/lloy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programming makes me feel like a mage. I cast spells by coding and the output is where magic happens.
 
-Here are some ideas to get you started:
+I like tinkering. Experimenting, trying out stuff and observe what happens.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sometimes, I break stuff just so I can put them back together.
+
+## What I'm currently learning/working on:
+
+- Homelabbing
+- PICO-8
+- NeoVim
+
+## Other Repositories
+
+- [GitLab](https://gitlab.com/lloydev)
+  - [Games Project](https://gitlab.com/lloydev-games)

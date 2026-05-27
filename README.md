@@ -4,11 +4,11 @@ Programming makes me feel like a mage. I cast spells by coding and the output is
 
 I like tinkering. Experimenting, trying out stuff and observing what happens.
 
-Sometimes, I break stuff just so I can put them back together.
+Sometimes, I find it fun to break stuff just so I can put them back together.
 
 ## What I'm currently learning/working on:
 
-- Homelabbing
+- Homelab
 - PICO-8/Lua
 - NeoVim
 

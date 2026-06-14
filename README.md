@@ -1,4 +1,4 @@
-## lloydev
+## Lloyd
 
 Programming makes me feel like a mage. I cast spells by coding and the output is where magic happens.
 

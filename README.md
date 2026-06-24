@@ -11,6 +11,7 @@ Sometimes, I find it fun to break stuff just so I can put them back together.
 - Homelab
 - PICO-8/Lua
 - NeoVim
+- NixOS
 
 ## Other Repositories
 

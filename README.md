@@ -13,5 +13,5 @@ Sometimes, I find it fun to break stuff just so I can put them back together.
 
 ## Other Repositories
 
+- [Codeberg](https://codeberg.org/lloydev)
 - [GitLab](https://gitlab.com/lloydev)
-  - [Games Project](https://gitlab.com/lloydev-games)
